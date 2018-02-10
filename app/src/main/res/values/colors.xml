@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <!--使用的颜色-->
+    <color name="white">#FFFFFF</color>
+    <color name="c333333">#333333</color>
+    <color name="c999999">#999999</color>
+    <color name="ce6e6e6">#e6e6e6</color>
+
 </resources>
